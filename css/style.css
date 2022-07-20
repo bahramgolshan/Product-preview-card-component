@@ -207,32 +207,3 @@ main {
 .btn__icon {
   margin-right: 1rem;
 }
-
-/* TEST CODES */
-.items {
-  margin: 0 auto;
-  width: 400px;
-  height: 200px;
-  display: flex;
-}
-.item1 {
-  background-color: gold;
-  height: 100%;
-  width: 50%;
-  /* flex: 1 1 0px; */
-}
-.item2 {
-  flex-grow: 1;
-  background-color: red;
-  width: 50%;
-  height: 100%;
-  /* flex: 1 1 0px; */
-  /* padding: 30px; */
-}
-
-.item3 {
-  width: 200px;
-}
-
-.item3 img {
-}
